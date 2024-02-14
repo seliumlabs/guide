@@ -4,8 +4,8 @@ Ahoy, and thanks for being part of the community! In this wiki you'll learn abou
 components and how to use them.
 
 If at any point you find yourself thinking "I wish they'd cover ...", please
-[start a new discussion](https://github.com/seliumlabs/selium/discussions/new?category=ideas). We would really value
-your feedback and ideas. Thanks!
+[start a new discussion](https://github.com/seliumlabs/guide/discussions/new?category=ideas). We
+would really value your feedback and ideas. Thanks!
 
 ## What is Selium?
 
