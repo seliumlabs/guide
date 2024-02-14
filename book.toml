@@ -1,0 +1,12 @@
+[book]
+authors = ["Selium Developers"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Selium User Guide"
+
+[output.html]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
+git-repository-url = "https://github.com/seliumlabs/selium"
+cname = "guide.selium.com"
